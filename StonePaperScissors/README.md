@@ -2,6 +2,8 @@
 
 A fast and fun web-based **Rock Paper Scissors** game built with HTML, CSS, and JavaScript. <br/> Play against the computer and test your luck in this classic hand game.
 
+## 🌎 Live Demo: https://aasthakapupara-rockpaperscissorsgame.netlify.app/
+
 ## 🖼️ Screenshots:
 
 🔹 Game Interface:
@@ -48,5 +50,11 @@ A fast and fun web-based **Rock Paper Scissors** game built with HTML, CSS, and 
 2. The computer will randomly select its move.  
 3. The result is displayed along with updated scores.  
 4. Keep playing to challenge your luck!
+
+---
+
+# 🚀 Live Demo
+
+🔗 Try the Rock Paper Scissors Game: https://aasthakapupara-rockpaperscissorsgame.netlify.app/
 
 ---
