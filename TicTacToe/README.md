@@ -1,6 +1,9 @@
 # 🎮 Tic Tac Toe Game
 
-The **Tic Tac Toe** game is a classic two-player game built with HTML, CSS, and JavaScript. <br/> This web app allows players to take turns placing Xs and Os on a 3×3 grid, with real-time win detection and game status updates.
+The **Tic Tac Toe** game is a classic two-player game built with HTML, CSS, and JavaScript. <br/>
+This web app allows players to take turns placing Xs and Os on a 3×3 grid, with real-time win detection and game status updates.
+
+## 🌎 Live Demo: https://aasthakapupara-tictactoegame.netlify.app/
 
 ## 🖼️ Screenshots:
 
@@ -48,5 +51,13 @@ The **Tic Tac Toe** game is a classic two-player game built with HTML, CSS, and 
 2. The first to align three marks in a row, column, or diagonal wins.  
 3. If all cells are filled and no winner, the game is a draw.  
 4. Click **Reset** to start a new round.
+
+---
+
+# 🚀 Live Demo
+
+🔗 Try the Tic Tac Toe Game: https://aasthakapupara-tictactoegame.netlify.app/
+
+---
 
 ---
