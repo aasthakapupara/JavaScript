@@ -1,6 +1,6 @@
 # 🎮 Tic Tac Toe Game
 
-The **Tic Tac Toe** game is a classic two-player game built with HTML, CSS, and JavaScript. This web app allows players to take turns placing Xs and Os on a 3×3 grid, with real-time win detection and game status updates.
+The **Tic Tac Toe** game is a classic two-player game built with HTML, CSS, and JavaScript. <br/> This web app allows players to take turns placing Xs and Os on a 3×3 grid, with real-time win detection and game status updates.
 
 ## 🖼️ Screenshots:
 
