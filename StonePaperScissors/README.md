@@ -1,6 +1,6 @@
 # ✊✋✌️ Rock Paper Scissors Game
 
-A fast and fun web-based **Rock Paper Scissors** game built with HTML, CSS, and JavaScript. Play against the computer and test your luck in this classic hand game.
+A fast and fun web-based **Rock Paper Scissors** game built with HTML, CSS, and JavaScript. <br/> Play against the computer and test your luck in this classic hand game.
 
 ## 🖼️ Screenshots:
 
