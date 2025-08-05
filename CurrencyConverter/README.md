@@ -2,6 +2,7 @@
 # 🚀 Currency Converter
 
 The Currency Converter is a web application that allows users to convert between different currencies using the latest exchange rates. 
+
 This app fetches real-time exchange rates from an external API using JavaScript's Fetch API and provides an easy-to-use interface for quick conversions.
 
 ## 🖼️ Screenshots:
@@ -25,8 +26,11 @@ This app fetches real-time exchange rates from an external API using JavaScript'
 ## 📂 Files Overview
 
 📜 index.html → Structure of the web page, including input fields and dropdowns.
+
 🎨 style.css → Styles the UI for a modern and responsive look.
+
 🛠️ codes.js → Contains functions to fetch exchange rates and update the UI.
+
 ⚡ app.js → Handles user interactions and conversion logic.
 
 ------------------------------------------------------------
