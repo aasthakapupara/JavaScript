@@ -1,8 +1,11 @@
-
 # 🚀 Currency Converter
 
 The Currency Converter is a web application that allows users to convert between different currencies using the latest exchange rates. <br/>
 This app fetches real-time exchange rates from an external API using JavaScript's Fetch API and provides an easy-to-use interface for quick conversions.
+
+------------------------------------------------------------
+
+## 🌎 Live Demo: https://aasthakapupara-currencyconverter.netlify.app/
 
 ## 🖼️ Screenshots:
 
@@ -50,6 +53,14 @@ The application fetches exchange rates from:
     https://2024-03-06.currency-api.pages.dev/v1/currencies/${currency}.json
 
 🔹 Replace ${currency} with currency codes like usd, inr, eur, etc.
+
+------------------------------------------------------------
+
+# 🚀 Live Demo
+
+🔗 Try the Currency Converter: https://aasthakapupara-currencyconverter.netlify.app/
+
+------------------------------------------------------------
 
 ------------------------------------------------------------
 
