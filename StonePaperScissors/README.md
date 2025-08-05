@@ -42,7 +42,7 @@ A fast and fun web-based **Rock Paper Scissors** game built with HTML, CSS, and 
 
 ---
 
-## 📌 How to Play
+## 📌 How to Play?
 
 1. Choose **Rock**, **Paper**, or **Scissors**.  
 2. The computer will randomly select its move.  
@@ -50,5 +50,3 @@ A fast and fun web-based **Rock Paper Scissors** game built with HTML, CSS, and 
 4. Keep playing to challenge your luck!
 
 ---
-
-
