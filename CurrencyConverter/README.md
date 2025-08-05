@@ -8,7 +8,7 @@ This app fetches real-time exchange rates from an external API using JavaScript'
 
 🔹 Initial Interface:
 
-<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/2f88209b-c953-499f-9486-ca1187dec852" />
+<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/2f88209b-c953-499f-9486-ca1187dec852" /> <br/>
 
 🔹 Output Interface:
 
